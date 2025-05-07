@@ -1,0 +1,14 @@
+name: Update README with Quote
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/readme-quotes@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          quote_category: programming
