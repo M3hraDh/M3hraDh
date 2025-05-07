@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="M3hraD's Banner" width="100%">
-  <h1>👋 Hi, I'm M3hraD!</h1>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="M3hraDh's Banner" width="100%">
+  <h1>👋 Hi, I'm M3hraDh!</h1>
   <p>💻 Software Developer | 🌟 Building cool stuff one line at a time | ☕ Coffee addict</p>
 </div>
 
@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=M3hraD&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hraD&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=M3hraDh&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hraDh&layout=compact&theme=dracula" alt="Top Languages">
 </p>
 
 ## 🌐 Connect with Me
@@ -31,7 +31,7 @@
 </p>
 
 ## 🐍 Contributions
-<img src="https://github.com/M3hraD/M3hraD/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+<img src="https://github.com/M3hraDh/M3hraDh/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
 ## 🎉 Fun Vibes
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat GIF">
